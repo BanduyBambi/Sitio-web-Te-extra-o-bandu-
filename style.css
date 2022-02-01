@@ -1,0 +1,21 @@
+body {
+    background: Aquamarine
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color:#FF0000;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 20px
